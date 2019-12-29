@@ -1,1 +1,3 @@
-console.log('teste2');
+import ClasseUsuario, { idade as IdadeUsuario } from './functions';
+ClasseUsuario.info();
+console.log(IdadeUsuario);
