@@ -18,6 +18,7 @@
     "valoresPadrao": "babel ./conceitos/valoresPadrao.js -o bundle-valoresPadrao.js -w",
     "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w",
     "restSpread": "babel ./conceitos/restSpread.js -o bundle-restSpread.js -w",
-    "templateLiterals": "babel ./conceitos/templateLiterals.js -o bundle-templateLiterals.js -w"
+    "templateLiterals": "babel ./conceitos/templateLiterals.js -o bundle-templateLiterals.js -w",
+    "objShortSyntax": "babel ./conceitos/objShortSyntax.js -o bundle-objShortSyntax.js -w"
   }
 }
