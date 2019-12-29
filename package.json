@@ -9,6 +9,7 @@
     "@babel/preset-env": "^7.7.7"
   },
   "scripts": {
-    "configurando-babel": "babel ./conceitos/configurando-babel.js -o buldle-configurando-babel.js -w"
+    "configurando-babel": "babel ./conceitos/configurando-babel.js -o buldle-configurando-babel.js -w",
+    "classes": "babel ./conceitos/classes.js -o buldle-classes.js -w"
   }
 }
