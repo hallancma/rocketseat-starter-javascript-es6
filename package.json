@@ -6,6 +6,7 @@
   "dependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
+    "@babel/plugin-proposal-object-rest-spread": "^7.7.7",
     "@babel/preset-env": "^7.7.7"
   },
   "scripts": {
@@ -15,6 +16,7 @@
     "operArray": "babel ./conceitos/operArray.js -o bundle-operArray.js -w",
     "arrowFunctions": "babel ./conceitos/arrowFunctions.js -o bundle-arrowFunctions.js -w",
     "valoresPadrao": "babel ./conceitos/valoresPadrao.js -o bundle-valoresPadrao.js -w",
-    "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w"
+    "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w",
+    "restSpread": "babel ./conceitos/restSpread.js -o bundle-restSpread.js -w"
   }
 }
