@@ -17,6 +17,7 @@
     "arrowFunctions": "babel ./conceitos/arrowFunctions.js -o bundle-arrowFunctions.js -w",
     "valoresPadrao": "babel ./conceitos/valoresPadrao.js -o bundle-valoresPadrao.js -w",
     "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w",
-    "restSpread": "babel ./conceitos/restSpread.js -o bundle-restSpread.js -w"
+    "restSpread": "babel ./conceitos/restSpread.js -o bundle-restSpread.js -w",
+    "templateLiterals": "babel ./conceitos/templateLiterals.js -o bundle-templateLiterals.js -w"
   }
 }
