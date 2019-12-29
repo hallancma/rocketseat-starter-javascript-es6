@@ -19,6 +19,7 @@
     "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w",
     "restSpread": "babel ./conceitos/restSpread.js -o bundle-restSpread.js -w",
     "templateLiterals": "babel ./conceitos/templateLiterals.js -o bundle-templateLiterals.js -w",
-    "objShortSyntax": "babel ./conceitos/objShortSyntax.js -o bundle-objShortSyntax.js -w"
+    "objShortSyntax": "babel ./conceitos/objShortSyntax.js -o bundle-objShortSyntax.js -w",
+    "desafio": "babel ./conceitos/desafio.js -o bundle-desafio.js -w"
   }
 }
