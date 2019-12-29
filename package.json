@@ -12,6 +12,7 @@
     "configurando-babel": "babel ./conceitos/configurando-babel.js -o buldle-configurando-babel.js -w",
     "classes": "babel ./conceitos/classes.js -o buldle-classes.js -w",
     "constLet": "babel ./conceitos/constLet.js -o buldle-constLet.js -w",
-    "operArray": "babel ./conceitos/operArray.js -o buldle-operArray.js -w"
+    "operArray": "babel ./conceitos/operArray.js -o buldle-operArray.js -w",
+    "arrowFunctions": "babel ./conceitos/arrowFunctions.js -o buldle-arrowFunctions.js -w"
   }
 }
