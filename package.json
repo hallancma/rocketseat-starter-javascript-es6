@@ -14,6 +14,7 @@
     "constLet": "babel ./conceitos/constLet.js -o buldle-constLet.js -w",
     "operArray": "babel ./conceitos/operArray.js -o bundle-operArray.js -w",
     "arrowFunctions": "babel ./conceitos/arrowFunctions.js -o bundle-arrowFunctions.js -w",
-    "valoresPadrao": "babel ./conceitos/valoresPadrao.js -o bundle-valoresPadrao.js -w"
+    "valoresPadrao": "babel ./conceitos/valoresPadrao.js -o bundle-valoresPadrao.js -w",
+    "desestruturacao": "babel ./conceitos/desestruturacao.js -o bundle-desestruturacao.js -w"
   }
 }
