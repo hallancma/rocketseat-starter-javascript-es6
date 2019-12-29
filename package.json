@@ -10,6 +10,7 @@
   },
   "scripts": {
     "configurando-babel": "babel ./conceitos/configurando-babel.js -o buldle-configurando-babel.js -w",
-    "classes": "babel ./conceitos/classes.js -o buldle-classes.js -w"
+    "classes": "babel ./conceitos/classes.js -o buldle-classes.js -w",
+    "constLet": "babel ./conceitos/constLet.js -o buldle-constLet.js -w"
   }
 }
