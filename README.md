@@ -33,6 +33,8 @@
 
 ## :rocket: [Aplicação com ES6+](https://github.com/hallancma/rocketseat-starter-javascript-es6/tree/master/aplicacao-es6) :white_check_mark:
 
+> Nesta aplicação, foi trabalhado todos conceitos aprendidos no curso onde tem como intuito fazer requisições para api do github e retornar as informações do repositório preenchido no input.
+
 - [x] Estrutura e estilos
 - [x] Adicionar repositórios
 - [x] Buscando da API
