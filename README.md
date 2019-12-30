@@ -1,5 +1,3 @@
-# rocketseat-starter-javascript-es6
-
 # Rocketseat Starter - Curso JavaScript ES6
 
 > Exemplos contidos no curso da Rocketseat Starter - Curso JavaScript ES6:
