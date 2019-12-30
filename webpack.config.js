@@ -42,4 +42,27 @@ const desafioAxios = {
   }
 };
 
-module.exports = [asynWait, desafioAxios];
+const aplicacao_es6 = {
+  entry: ['@babel/polyfill', './aplicacao-es6/src/main.js'],
+  output: {
+    path: __dirname + '/aplicacao-es6/public/',
+    filename: './bundle.js'
+  },
+  devServer: {
+    contentBase: __dirname + '/aplicacao-es6/public/'
+  },
+  module: {
+    rules: [
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'babel-loader'
+        }
+      }
+    ]
+  }
+};
+
+// module.exports = [aplicacao_es6, desafioAxios, asynWait];
+module.exports = [aplicacao_es6];
